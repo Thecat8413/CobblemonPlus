@@ -1,0 +1,13 @@
+name = "Cobblemon additions"
+filename = "cobblemon-additions-3.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W2pr9jyL/versions/dFAYPidJ/cobblemon-additions-3.9.4.jar"
+hash-format = "sha1"
+hash = "157e49e13bcdd617ccf4941a098a5db67c89e7d1"
+
+[update]
+[update.modrinth]
+mod-id = "W2pr9jyL"
+version = "dFAYPidJ"

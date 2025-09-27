@@ -644,6 +644,16 @@ hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
 metafile = true
 
 [[files]]
+file = "mods/cobbledollars.pw.toml"
+hash = "6b3913ae6f71dcfc438ce991a3d00c24db70e60ac8e3f1f69bcc013aeee178a1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "5758d16d8fd73ceb5abcc6258c707da612415188495c3a3b298709ffcafed6b7"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "38a55d139ff0b285e1e39eaf4df7c342c0ef34ac7ce500bb9a03fdce133c5d63"
 metafile = true
@@ -654,6 +664,31 @@ hash = "29b9d4b645450c0478f2e9f181a23c97e6dda710102c8e7aec187dca346b4856"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "cd7ec6202602a91d51fa6f3258732fa6a63a303dd5e88fcd1eb7b9b2a21e530a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "90f3d7a5f9b8bb09746c0c78dc18b95f55152c70a05a53bd76d6e4342ab3711e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "c266becf720cce6a2a5115c7da6a9bb6a1d0026ab1a32144e8dfee3e55b200ca"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "1549d22fd5c40307f619ce518d3ac15a55fdd1eae25146fbc2232ca5e47c517a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "a92c1f5a96d4e719ede1a99e4b060b32169f2cb7b925a3f923c659985038f742"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "abe202a828e1a130e519454a84c8a80b36035d6c62689bdb56325f5dc3244314"
 metafile = true
@@ -661,6 +696,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "4bfb31074b96bb890dbc3fe26831bc38a00fec6aa5a9de71ec7abf682a8ebf1b"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonrider1.5.pw.toml"
+hash = "00f7c98ed51485d9d0559f5a0958388cefd72f6015bad9229ae15e22cbbd6ea9"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "110545ab97c00deb58b7b1a198644b74fdef595d1736e67232f8c1fe41090e8c"
 metafile = true
 
 [[files]]
@@ -734,6 +779,11 @@ hash = "3532a36dd536eab3303153f8bda18c6da0e48497ba26a6f6519c43d1bd430806"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "0ebbc65f57aa1df730cadac3767f9fce1dd66e66079654296a5f97b1323806a2"
 metafile = true
@@ -749,6 +799,21 @@ hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4c04e5dc879dde6e4db324492486bb23c9190c68122cda18a2c89b6e3f79796f"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "52345ebb3005a84237949ed6edba48818f0ffa4435c9984a1853b867c2edb862"
+metafile = true
+
+[[files]]
+file = "mods/hiddenmons-cobblemon.pw.toml"
+hash = "d371f7a040e78d7edcbb8e2f0803509387a8cd0c498a811afd15d21bd60c59d5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a0655626281bfad28ce264f8b520b8463aa593c815feb7266abe299fe6c7ec18"
 metafile = true
@@ -761,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/invmovecompats.pw.toml"
 hash = "2d58cedeb75fe528b76fb1dd30df390a4c6c1edfdd23bbb6e26dcb9b2a63fd39"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2f6b5cc4a99d317947e63a8e722515e5d42f54f56dfcca84840f892ec7935d3f"
 metafile = true
 
 [[files]]
@@ -834,6 +904,11 @@ hash = "e86c9ef53b298f53c641a7f57c3f29a33995856a8a76363452aaa50fce8455f0"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2ba640dba0ddacaf242f087c03bb162a6312cfe01eaaeb49ea47dee396c99c3b"
+metafile = true
+
+[[files]]
 file = "mods/plantsjunk.pw.toml"
 hash = "b18e8102c43793626530ad9c0e98b128823beed3cd56c4000394987315938878"
 metafile = true
@@ -856,6 +931,16 @@ metafile = true
 [[files]]
 file = "mods/satin-free-wakes.pw.toml"
 hash = "8a84776fbe58b6affc2ac21e79abda3f6e08537e71fe1b8c257a94679e52c55c"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "5f520cf9778d1db374501661c6cf852e8e8ada26d26b8803ac1b2dd75220f2de"
+metafile = true
+
+[[files]]
+file = "mods/show-held-items.pw.toml"
+hash = "0a781f0539bc02ab90b04b14e73c5027b38f3df612f4baf5429128114b66ade1"
 metafile = true
 
 [[files]]
@@ -904,6 +989,11 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/tsfitemcore.pw.toml"
+hash = "627dedd8629119459eb5cb76f656e258b57830901be19efc795b22177ac019d0"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "dd58e61616046039505db380639baa32bfaded452572501aaacadb4222852e1d"
 metafile = true
@@ -911,6 +1001,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0e253fe6ed900eb357608fa6eecaca30eda237d8344b7ac6f2329cd74b84fbdf"
 metafile = true
 
 [[files]]
