@@ -1,0 +1,13 @@
+name = "Cobblemon Size Variations"
+filename = "CobblemonSizeVariationFabric-1.2.0+1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bMdS1gMo/versions/pkMdgheS/CobblemonSizeVariationFabric-1.2.0%2B1.6.1.jar"
+hash-format = "sha1"
+hash = "4397c3e607126be5dfc5f93fcd7514e4c1d590b1"
+
+[update]
+[update.modrinth]
+mod-id = "bMdS1gMo"
+version = "pkMdgheS"

@@ -684,6 +684,11 @@ hash = "1549d22fd5c40307f619ce518d3ac15a55fdd1eae25146fbc2232ca5e47c517a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-size-variations.pw.toml"
+hash = "31f9461289570cf0143b89e759c589d4e83c51ddd3b156c790269e919d5d442b"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "a92c1f5a96d4e719ede1a99e4b060b32169f2cb7b925a3f923c659985038f742"
 metafile = true
@@ -709,6 +714,11 @@ hash = "110545ab97c00deb58b7b1a198644b74fdef595d1736e67232f8c1fe41090e8c"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "5a3efd6a6e6cd6c6995dfeb820ca37699ca04a460a37f60e57a3c8c47fb82c89"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "8024c1973d8e2a30c30684caedd0d2a1ba28fda20c5ebf19b36fb0859d414bb2"
 metafile = true
@@ -716,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "39c177f853fa7d94285df1f53872147ba5354b859e29e25e3af1f7ba6b4cf0ca"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "5d5e1e850378e0cb052fb18b05f3e063488684d3a00c8be74cb85eae6e5cc592"
 metafile = true
 
 [[files]]
@@ -756,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "e7f08b02c3cab2d3185a4b6adc507ca5b64c2ca84557b2030d26eef90dc1be83"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "d92dcd765457810c1f1b48c4937b42bd8ba615e705b926f62e42ceeb0b9322fe"
 metafile = true
 
 [[files]]
@@ -924,6 +944,16 @@ hash = "c290dad0ff53a843ee750694196141ca71e8f41c16b36605bab2961df83e796c"
 metafile = true
 
 [[files]]
+file = "mods/rad-gyms.pw.toml"
+hash = "75c51b25e4c75f00773292a316dc54d240fe17599df87d3fe1d3d43c0eccde4e"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "63b753039c3ddee7c2cbe0124d81bb944cf053bedf9cb248479ef1e2a006110f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
@@ -946,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "ba03e78df0dc0b7c4b2d2490fa167ae61e46ff9a3eabbbdbf61721652ffb77e8"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "feb74c4cc7fbd5744652383d6e80a717e0adfd7a94289eb07306f228583f18ad"
 metafile = true
 
 [[files]]
