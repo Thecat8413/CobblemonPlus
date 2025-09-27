@@ -1,0 +1,13 @@
+name = "Plants&Junk"
+filename = "plantsjunk-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mGy2hslt/versions/9Z6UzYDp/plantsjunk-1.0.4-1.21.1.jar"
+hash-format = "sha1"
+hash = "4651ef001d2b8ca2d5e0f0c011a5e2a598ddb0b4"
+
+[update]
+[update.modrinth]
+mod-id = "mGy2hslt"
+version = "9Z6UzYDp"

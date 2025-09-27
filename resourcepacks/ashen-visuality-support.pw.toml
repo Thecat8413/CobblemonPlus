@@ -1,0 +1,13 @@
+name = "Ashen + Visuality Support"
+filename = "Ashen_Visuality_Support_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARf3yR3v/versions/CAifVbal/Ashen_Visuality_Support_1.1.zip"
+hash-format = "sha1"
+hash = "b4cd611e8abb8c7e35100388c8859d5b2c0722ec"
+
+[update]
+[update.modrinth]
+mod-id = "ARf3yR3v"
+version = "CAifVbal"
