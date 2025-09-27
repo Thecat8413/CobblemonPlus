@@ -989,6 +989,11 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
 file = "mods/tsfitemcore.pw.toml"
 hash = "627dedd8629119459eb5cb76f656e258b57830901be19efc795b22177ac019d0"
 metafile = true
