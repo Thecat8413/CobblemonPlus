@@ -589,6 +589,11 @@ hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "3d799e1dc3854f679b264870f3dfd0febe4df9062d9237d7d355ccd6d3037529"
 metafile = true
@@ -636,6 +641,21 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "38a55d139ff0b285e1e39eaf4df7c342c0ef34ac7ce500bb9a03fdce133c5d63"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "29b9d4b645450c0478f2e9f181a23c97e6dda710102c8e7aec187dca346b4856"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "abe202a828e1a130e519454a84c8a80b36035d6c62689bdb56325f5dc3244314"
 metafile = true
 
 [[files]]
