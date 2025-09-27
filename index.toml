@@ -5,6 +5,186 @@ file = "README.md"
 hash = "c5e677892737a912c8641305a16edb7c48bbbdf3319e17a39f04c48af8401031"
 
 [[files]]
+file = "config/fancymenu/assets/cm_audio/north_province.ogg"
+hash = "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/background.png"
+hash = "4f841b2c18aff6ae6092819d0c1089b903f7a005ce095235a1c6d7b4af2146ad"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/button.png"
+hash = "614edb44787dc63f7abe3c035aed6b64117899269eddbd868e9c8d67741b39e6"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/button_hover.png"
+hash = "03b9b9a8a5fab603bba69c0d51f7f72dbbb6b5d537f2ab58b16e242f7090c362"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/button_small.png"
+hash = "6c35b16cb1d5b6eab10e8c4f7270d27f8f185f9453f8f097e5d9e7cf8624e7ad"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/button_small_hover.png"
+hash = "f15235a3dd73dccb39b29ef76e69d282828f9c3fc72821fafd31ac4da1b77376"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/cm_menu.png"
+hash = "1c6e2c90d4d7bbf497f83f1430507872ff3d4c3d7f2bf1585c5b3f6b74544447"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/cm_title.png"
+hash = "a618094d8e00dbc42936fa20aa9b70c41c41924f71d88d972ca050c07b49c88a"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/exit_button.png"
+hash = "6e1c01c4ccf8066d2a9d785ef9bdbee380ab15f2311e999de59cd2113fcb607a"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/exit_hover.png"
+hash = "d960830f72d1351ec5178beec7b6fc7b5d97b4c9e44662decc66cf27cf67fcd9"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/grad.png"
+hash = "69770622340aa93c64660afa73497b2480b07d56a854c839351095582b0100b4"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/icon16x16.png"
+hash = "8b4f11f73494d0860e937fdf14c14aba17aa79458b8136899c452c25f124d473"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/icon32x32.png"
+hash = "b107d1639c336295f844500db9d79d25bfa96acdf6605cc5188bf2d74b90fe26"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/iconmacos.icns"
+hash = "0d37fade68c7fd5ccdfa71de5ccd8a0c17be69f71832c250a7b633f2f1fdb81e"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/music_button.png"
+hash = "290856158561baa5c22c54ba79a0a79ac4568097de1b23c15d6432b776996116"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/music_hover.png"
+hash = "99d800947e4bf52117855bfd790431a941b77170b8b96d0fa315650307a6c570"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/scroll.png"
+hash = "f7bf06aa80f14c246dde8e5d7387317f3b21bfbc4f1d3620b9d10b4ac8bbaff0"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/scroll_hover.png"
+hash = "e414a88912eee6f5110390ae079c258e609d6652099d21943e54612afd0e1ca6"
+
+[[files]]
+file = "config/fancymenu/assets/cm_textures/sliderback.png"
+hash = "da3a15e5b973369624ffa098a830f175383763476de426ee274fa021260d52ea"
+
+[[files]]
+file = "config/fancymenu/assets/credits.txt"
+hash = "225948e025f30a20cb3dcced9c8b415a3baf2a8fad2d7fcd14a837032ab5310e"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "1e77547b11b825ea8b3bc9db5a749acfa6cde5aabf41d590a43abe3716425d2d"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "825a55d0460b01f2dedbc337ef416f231ee3c7fcf4797b40b297482065908567"
+
+[[files]]
+file = "config/fancymenu/customization/cm_multiplayer.txt"
+hash = "9f375dd35b213cb5e57910f0cfaf4cc022c58ebd79b0cf683ebbc8bf90173585"
+
+[[files]]
+file = "config/fancymenu/customization/cm_music.txt"
+hash = "cca531251b6e167062447f230cf27c63126e751959b84671369bf614190ce19d"
+
+[[files]]
+file = "config/fancymenu/customization/cm_title.txt"
+hash = "78471a4a7bca9ff5eda5a5b23e40325d012c80a864a0ecd2d88cfd7ee8ed3758"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "508656b2bb5db59445a07b7beeed2674b341cd0ba78ad41ab1dcc523066ec24d"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8bee1b41ae046e78c1c15b20ddc148bca24f51a63437ff776f66bd536a7a2e5d"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/Animations.png"
+hash = "f7b57e4214113866fc1143efa4a73b81f2119417809215f8d9b6c4110609e5fe"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/Dex.png"
+hash = "e89d8f4e21dd1b678191d1fa50c41140f531bcb4ef414a9bbb54627fd2a6b3f2"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/DoubleBattles.png"
+hash = "a4fb7ed8e23b3b9b9e63fed2928f620e938f5dcdcb3d6ef3dfeda862cb03236e"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/EvolutionEffects.png"
+hash = "f7eb75dab7f23ad718691f83dabbb706a1b0b0082b62a5096acd23ec6a59a91d"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/Fishing.png"
+hash = "688691ea14d8991b531217563cc136650ecf947674f8a07765f6a421e6d6ed7f"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/NPC.png"
+hash = "5e86d0cd6fdbc5a995f84dc4b357c83bc4548aee17900f33b7e95d36cca6a017"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/NewPokemon.png"
+hash = "9532804049f0a3c33138ade6c5d2bb6d371dec8890083a7b069924146fad725d"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/NurseVil.png"
+hash = "ad90f78011e605351690e79c0f589066d5f413a624d4c303a9cea41991dbf5ca"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/ShinyEffects.png"
+hash = "9b71b4005712c39af9b40d666b5d90d878256d0d9c3593929a7bc5a53fcedb32"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/ShipwreckCove.png"
+hash = "c4ea4093ba40b7967b2eaff35c775128a75f3a2060dcd7fd9639a2fdd5184ab5"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/TripleBattles.png"
+hash = "0226ce085c1813261e9b543de077f49bb5fa45cbc3f65d5b22cc1c42d2aec972"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/images/TumblestoneBlocksets.png"
+hash = "527fe364a30fa1218d1175c0b73e918637a89cc3d42f688d59aaaf3832e32e4a"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_showcase/properties.txt"
+hash = "4f88be7d0b4c3360cdbf4712c01b3774e7d42ab68a4ead8863cedf545c7a9e8c"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "653d0e0c2efd1d1a97c5ad9379cb59b8a2496e1defde33f154ad05c91663766a"
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "e4c87a987a6f840270a401bd9eb6ce43da7e1b2f06801b1d465dba1fd0f894df"
 metafile = true
@@ -297,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "f9d4ee606bd2abfd129ed5324939cf74605bc286a86922f9532e2b13f7fbf205"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "4e29e10e50d942d1406c5c399536080ef59c1ce1b2bc7a9331708e488aba62ae"
 metafile = true
 
 [[files]]
