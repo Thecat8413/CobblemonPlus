@@ -714,6 +714,11 @@ hash = "110545ab97c00deb58b7b1a198644b74fdef595d1736e67232f8c1fe41090e8c"
 metafile = true
 
 [[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "7c9a41caeeb1a3177505d427ca479228a3601fd12a02ef84b2be9977b4c0fa43"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "5a3efd6a6e6cd6c6995dfeb820ca37699ca04a460a37f60e57a3c8c47fb82c89"
 metafile = true
@@ -821,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4c04e5dc879dde6e4db324492486bb23c9190c68122cda18a2c89b6e3f79796f"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "14d6124cc7692ab3db28e4a10bcb6564d1ca6c813023d7084371df5f44737b97"
 metafile = true
 
 [[files]]
@@ -966,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "5f520cf9778d1db374501661c6cf852e8e8ada26d26b8803ac1b2dd75220f2de"
-metafile = true
-
-[[files]]
-file = "mods/show-held-items.pw.toml"
-hash = "0a781f0539bc02ab90b04b14e73c5027b38f3df612f4baf5429128114b66ade1"
 metafile = true
 
 [[files]]
