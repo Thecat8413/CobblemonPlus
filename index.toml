@@ -624,6 +624,11 @@ hash = "806ab3c24aba015c68c4a67ea9fb77441b539d3241fc987c202c7a13dba116b5"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6b6335eb22a39123c4ba851b022656f51b5f9a6dfb6198e42b5b394625686928"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "f2ffcfa86072a8b96f7d3be17c0858f15821a9c9f86eda18be6849e81e46a5d8"
 metafile = true
@@ -676,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "c266becf720cce6a2a5115c7da6a9bb6a1d0026ab1a32144e8dfee3e55b200ca"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "2e1653a34b1061297ae27efa021a8786989d79a42638b4607b958cd66a59ab2c"
 metafile = true
 
 [[files]]
@@ -799,6 +809,11 @@ hash = "7b8f71abca49fca46bc01052cbda17961fb5fe459cba2c8fc4da878dd4d1d7d3"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "510a734d5276b5bc094162b4fdcf167f637b54915e31e20d14ecc87b79778541"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3532a36dd536eab3303153f8bda18c6da0e48497ba26a6f6519c43d1bd430806"
 metafile = true
@@ -914,6 +929,11 @@ hash = "985eea342c60a03b5c6674720f495ff4a4da61128792ba501407eca95a792415"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "aaa0c9a7f376101ba03bd914380219146e81f326b881f5c30bede7914146d37c"
 metafile = true
@@ -936,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2ba640dba0ddacaf242f087c03bb162a6312cfe01eaaeb49ea47dee396c99c3b"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "321106b9a028cb1aaff6a8f3dc138ca25abc6128c61ce28bb674b45ad8d39b64"
 metafile = true
 
 [[files]]
@@ -1026,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "e4afa453e610b868aab51aa18ca8780d5507fac56ccf020491cc4292076c8bc3"
 metafile = true
 
 [[files]]
