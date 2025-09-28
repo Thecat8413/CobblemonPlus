@@ -1114,6 +1114,11 @@ hash = "d4610ed143826303ce685ddff8dc2a71b236886ba30279e9c5a5799287763903"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-original-pokemon-battle-music.pw.toml"
+hash = "77fce318bcca2a301dfd14b9f486c4df23e39b0d24aaaa17cef1e24506e284a8"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "45e192e6437641dae538fffeefb798fb7086bf32f9d263f7ba0a31323e80b2e4"
 metafile = true
