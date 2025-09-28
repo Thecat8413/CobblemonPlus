@@ -904,6 +904,11 @@ hash = "ba59db5a416592d531d17460fafc3e08c09586440aaf83209ca5988ac3d92d4c"
 metafile = true
 
 [[files]]
+file = "mods/legends-myths.pw.toml"
+hash = "4ec2d13a5c68f5de4a918332f52f69ccc6a7b20a973def9bf157fdfad8f9f03a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "bcb99877e0d8940a9d7a09e9b595b6baf1928f040b25c3398c6358da13074e26"
 metafile = true
