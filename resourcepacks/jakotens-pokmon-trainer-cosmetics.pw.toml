@@ -1,0 +1,13 @@
+name = "Jakotens' Pokémon Trainer Cosmetics!"
+filename = "Jakotens' Trainer SKINS.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajENsjSi/versions/9IKheljC/Jakotens%27%20Trainer%20SKINS.zip"
+hash-format = "sha1"
+hash = "99f894c669078e740ac06359f9aabd04f00f82e2"
+
+[update]
+[update.modrinth]
+mod-id = "ajENsjSi"
+version = "9IKheljC"
