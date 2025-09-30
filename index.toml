@@ -579,6 +579,11 @@ hash = "605ef8bb0533a72740dc3b5346908567dd2ce0539fe8a39e7dbcc7959e700797"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "74c5aa1224f249cc273032e4e0ebca741e1106c7d9cd023105ae880aed8b1919"
 metafile = true
@@ -621,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "806ab3c24aba015c68c4a67ea9fb77441b539d3241fc987c202c7a13dba116b5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "201c56cfa39bd988e89185816f7526c5fbe17527660c404f23c97a647db59ce9"
 metafile = true
 
 [[files]]
@@ -829,6 +839,11 @@ hash = "ef300919235fe5b6eeb5aba5e11015b5ae06ccec0733ab733c10f0c9a46a4d5b"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
@@ -894,6 +909,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "3b60114f9299e87b99bcdb709410edd16be7ecce83c494ec5b4e4897e8d80707"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "69aa33fe6ca0435c7d690bdfde96c604f79c669fbdeada5b73805ad64c4bdb65"
 metafile = true
@@ -929,6 +949,11 @@ hash = "985eea342c60a03b5c6674720f495ff4a4da61128792ba501407eca95a792415"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c12304ecd7355f327473e637f26e3893385ddc8b67d1a5399fdab460ea597898"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
@@ -944,8 +969,18 @@ hash = "6a21e4ca00b825a6c0c36a3127fa4aef5bcdba49db73d400f6f9c1cb2bf2d417"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "da9773fa4a8909df91f5d928de78434aa110dc1fc922d9f7f9532e87270f6cc9"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "79c64edd77021707b5bcdba4327ce4585ef6e3b4987cdbb7003420c92f260548"
 metafile = true
 
 [[files]]
@@ -999,8 +1034,18 @@ hash = "8a84776fbe58b6affc2ac21e79abda3f6e08537e71fe1b8c257a94679e52c55c"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "bdad19d25a5ed066fb10581df9b4ee2d83488520feeb1a7c09688e61a3797c6d"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "5f520cf9778d1db374501661c6cf852e8e8ada26d26b8803ac1b2dd75220f2de"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d00625e3b406aa48de12ffd65cb13a93e3149a626d66c7c8e7b14eca19556409"
 metafile = true
 
 [[files]]
