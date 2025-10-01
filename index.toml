@@ -979,6 +979,11 @@ hash = "da9773fa4a8909df91f5d928de78434aa110dc1fc922d9f7f9532e87270f6cc9"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "c50eddbd8eca4b5ead46e8e1bd84a939e152bc1bebdedb4aeb57f09cd299cffa"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "79c64edd77021707b5bcdba4327ce4585ef6e3b4987cdbb7003420c92f260548"
 metafile = true
@@ -1081,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "f9d4ee606bd2abfd129ed5324939cf74605bc286a86922f9532e2b13f7fbf205"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
