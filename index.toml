@@ -1099,6 +1099,16 @@ hash = "c8800724668a41f6a2c821d97ca5eff7537c187f903b103e437e73a205f33f73"
 metafile = true
 
 [[files]]
+file = "mods/tick-stabilizer.pw.toml"
+hash = "9698fb46fcab0e58ed102f7cb5ca68e2ea5004ef590ed1567575a86fc1ca21f5"
+metafile = true
+
+[[files]]
+file = "mods/tick-tweaks.pw.toml"
+hash = "1ac679c036b9b5e9e78ae753ff3096220fb4da77391d04a9ce60a190830b934d"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "8e9d137f9bb0abd22e350447591405bca4cd32944149939affd4686d76bdd1c8"
 metafile = true
