@@ -1,13 +1,13 @@
 name = "Cobblemon Spawn Notification"
-filename = "cobblemon-spawn-notification-1.6-fabric-1.3.8.jar"
+filename = "cobblemon-spawn-notification-1.6-fabric-1.3.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/RNnzAfGu/cobblemon-spawn-notification-1.6-fabric-1.3.8.jar"
+url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/QWYPqICC/cobblemon-spawn-notification-1.6-fabric-1.3.9.jar"
 hash-format = "sha1"
-hash = "d6a3d324808ad4058488b5fd0050dcb8efaf4e51"
+hash = "4fb6d8fabe4d76451d8fe44beb008eed771f3c20"
 
 [update]
 [update.modrinth]
 mod-id = "LPuJjiQz"
-version = "RNnzAfGu"
+version = "QWYPqICC"
