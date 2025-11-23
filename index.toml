@@ -569,6 +569,11 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "d16b7800c8a7acf157deda1e99d55f447efe3e0eb65c731a089c9a14aa791db6"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "eb3b2b394c051cb0adff73d2f9ec2a6ff40e35c79e2604302662fc8cb8b186ae"
 metafile = true
@@ -701,11 +706,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
 hash = "f99b79f4b492e13e8a2baa2407d062f06ae706daf25bc4637fcdfe65e5c933df"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "dd4bafce8d45489b3d87c5220a430ed9ac1b9c15d35dc5c5d892a17f85353b85"
 metafile = true
 
 [[files]]
@@ -976,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "c50eddbd8eca4b5ead46e8e1bd84a939e152bc1bebdedb4aeb57f09cd299cffa"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9db90dbca5f74ae9eef6d3bfef116b2c93eb52e1151df241e35b358754594e95"
 metafile = true
 
 [[files]]
