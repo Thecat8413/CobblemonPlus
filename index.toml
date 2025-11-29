@@ -679,6 +679,11 @@ hash = "e41fb40080b713e263ec250b92cbeb22a14ec263314d25703ef498b9101f0e5b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-counter.pw.toml"
+hash = "26920ce53003c3aac9d39f757c31b6c69e8275e674663d60c26924c096d45788"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "d67517be257a4eefdb18935a18cc0ac5599c18e0d56acda15b36f670fb1e4360"
 metafile = true
@@ -711,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "09c2bf8a2677a0216b2388e8651527bfa3916d588577ac2e7da3b9ca1648cb29"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-unchained.pw.toml"
+hash = "8f432e1c0eaf218eac02e8533bbe36370dd26e1119b59adcb38db966a976573f"
 metafile = true
 
 [[files]]
