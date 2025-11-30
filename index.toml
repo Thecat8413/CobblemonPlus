@@ -1124,6 +1124,11 @@ hash = "14809a27aee81922df55321938d7d5e4ef4c8e7abe3e21a0b4447251775487e9"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c916a81a8a78e1385194173a81a481d7b82d41480f8e0c0d449eb3e5d92c24fe"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
