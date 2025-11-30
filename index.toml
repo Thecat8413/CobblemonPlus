@@ -1179,6 +1179,10 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "resourcepacks/AllTheMons R3.0.zip"
+hash = "355d13b5b5f128f46eb46ad493cb9e4b886b281c65903bb25f8f2bb87b65c85e"
+
+[[files]]
 file = "resourcepacks/ashen-visuality-support.pw.toml"
 hash = "784252ccec677d722a087e48f05029e857f2f0432fcb60c1e5ae8a0ad25ad6a2"
 metafile = true
